@@ -1,2 +1,1 @@
-# Devops_Workshop
-A simple java program 
+simple rest api
